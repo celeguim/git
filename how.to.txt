@@ -23,3 +23,10 @@
 # git rm --cache arq1.txt
 # git push origin master
 
+// Save password
+// Set git to use the credential memory cache
+# git config --global credential.helper cache
+# git config --global user.name "your username"
+# git config --global user.password "your password"
+
+
