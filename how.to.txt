@@ -1,0 +1,20 @@
+// create a new repository
+# git init	
+
+// checkout a repository
+# git clone /path/to/repository
+# git clone username@host:/path/to/repository
+
+// Add
+# git add <filename>
+# git add *
+
+// Commit
+# git commit -m "Commit message"
+
+// Push changes
+# git push origin master
+
+// Link to the repository
+# git remote add origin <server>
+
