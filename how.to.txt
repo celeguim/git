@@ -18,3 +18,8 @@
 // Link to the repository
 # git remote add origin <server>
 
+// Delete file
+# rm arq1.txt
+# git rm --cache arq1.txt
+# git push origin master
+
